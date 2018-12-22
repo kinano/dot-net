@@ -1,0 +1,13 @@
+﻿@page
+@model CreateModel
+@{
+}
+
+<p>Enter your name:</p>
+<form method="post">
+    <div>
+        Name: <input asp-for="Customer.Name" />
+    </div>
+    <div asp-validation-summary="All"></div>
+    <input type="submit" />
+</form>

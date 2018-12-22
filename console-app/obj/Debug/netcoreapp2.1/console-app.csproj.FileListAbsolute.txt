@@ -1,0 +1,11 @@
+/Users/kinan/Development/experiments/dot-net/console-app/bin/Debug/netcoreapp2.1/console-app.deps.json
+/Users/kinan/Development/experiments/dot-net/console-app/bin/Debug/netcoreapp2.1/console-app.runtimeconfig.json
+/Users/kinan/Development/experiments/dot-net/console-app/bin/Debug/netcoreapp2.1/console-app.runtimeconfig.dev.json
+/Users/kinan/Development/experiments/dot-net/console-app/bin/Debug/netcoreapp2.1/console-app.dll
+/Users/kinan/Development/experiments/dot-net/console-app/bin/Debug/netcoreapp2.1/console-app.pdb
+/Users/kinan/Development/experiments/dot-net/console-app/obj/Debug/netcoreapp2.1/console-app.csprojAssemblyReference.cache
+/Users/kinan/Development/experiments/dot-net/console-app/obj/Debug/netcoreapp2.1/console-app.csproj.CoreCompileInputs.cache
+/Users/kinan/Development/experiments/dot-net/console-app/obj/Debug/netcoreapp2.1/console-app.AssemblyInfoInputs.cache
+/Users/kinan/Development/experiments/dot-net/console-app/obj/Debug/netcoreapp2.1/console-app.AssemblyInfo.cs
+/Users/kinan/Development/experiments/dot-net/console-app/obj/Debug/netcoreapp2.1/console-app.dll
+/Users/kinan/Development/experiments/dot-net/console-app/obj/Debug/netcoreapp2.1/console-app.pdb

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web", "web\web.csproj", "{744C44EA-F93D-48BA-B39D-3BB43368C073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744C44EA-F93D-48BA-B39D-3BB43368C073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744C44EA-F93D-48BA-B39D-3BB43368C073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744C44EA-F93D-48BA-B39D-3BB43368C073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744C44EA-F93D-48BA-B39D-3BB43368C073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
